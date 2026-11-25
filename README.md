@@ -30,4 +30,4 @@ To validate the end-to-end alerting pipeline, I connected via EC2 Instance Conne
 ![SNS Alarm Email](sns-alarm-email.jpg)
 
 ### Automated Recovery Notification (`ALARM -> OK`)
-![SNS Recovery Email](sns-ok-email.png)
+![SNS Recovery Email](sns-ok-email.png) 
